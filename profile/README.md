@@ -6,10 +6,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@gaminggilde)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gaming-gilde.org)
 
-**Willkommen in der GAMING GILDE. Einer jungen Gaming-Community. Von Gamern für Gamer.**
+**Willkommen in der GitHub-Organisation der GAMING GILDE und der Minecraft-Gilde!
 
-Über diese GitHub-Organisation verwalten wir alle relevanten Projekte zu unserer Homepage.
-
-Ansonsten suchen wir immer coole Leute, die einfach Bock haben, in einer entspannten Runde gemeinsam zu zocken – ganz ohne Stress, Ruhm oder Profitgedanken.
-
-Also, komm und steig mit ein!
+Über diese GitHub-Organisation verwalten wir alle relevanten Projekte zu unserer Homepage als auch alle Projekte rund um unseren Minecraft-Server – von der Website über APIs bis hin zu Tools und Plugins.
